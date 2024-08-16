@@ -2,10 +2,19 @@ title: YASSINE BEN EL HAJ # your name (or website title) here
 logo: "/images/FB_IMG_1723812355727.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my portfolio! I am a Data Analyst with over six years of experience at MATISSAR LLC in Casablanca, specializing in supply chain optimization and risk management. My work has led to significant reductions in stockouts and excess inventory through effective data analysis and dashboard solutions. With a strong academic background in Actuarial Science and Risk Management, I am passionate about leveraging data to drive strategic improvements. 
+  
+  
   <br><br>
+
+
+  
   I possess a strong command of Python and data analytics tools, enabling me to create impactful visualizations and predictive models. I am passionate about transforming data into actionable insights and continuously strive to improve processes. Browse my projects to see how I leverage analytics to solve real-world problems.
   <br><br>
   <a href="https://www.linkedin.com/in/yassben/">View My LinkedIn Profile</a> 
+
+
+
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

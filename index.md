@@ -8,7 +8,7 @@
 <img src="images/project1.png?raw=true"/>
 
 ---
-[Predictive Analytics and Forecasting](https://github.com/Yass01b/AdRevenueForecast/blob/main/pdf/sample_presentation.pdf)
+[Predictive Analytics and Forecasting](https://github.com/Yass01b/AdRevenueForecast)
 <img src="images/project2.png?raw=true"/>
 
 ---

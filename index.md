@@ -2,34 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics for Business Optimization 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[User Onboarding Analysis]([/sample_page](https://github.com/Yass01b/User_Onboarding_Analysis/blob/main/User_onboarding_analysis%20(1).ipynb))
+<img src="images/project1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predictive Analytics and Forecasting]([/pdf/sample_presentation.pdf](https://github.com/Yass01b/AdRevenueForecast))
+<img src="images/prroject2.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+[Data Visualization and Reporting]([http://example.com/](https://github.com/Yass01b/AdsDashboard))
+<img src="images/project3.png?raw=true"/>
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+

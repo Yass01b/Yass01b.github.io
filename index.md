@@ -9,7 +9,7 @@
 
 ---
 [Predictive Analytics and Forecasting]([/pdf/sample_presentation.pdf](https://github.com/Yass01b/AdRevenueForecast))
-<img src="images/prroject2.png?raw=true"/>
+<img src="images/project2.png?raw=true"/>
 
 ---
 [Data Visualization and Reporting]([http://example.com/](https://github.com/Yass01b/AdsDashboard))
